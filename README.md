@@ -1,21 +1,22 @@
-## 喵？被发现了！恥ずかしくて嬉しい～
+## 喵？被发现了！恥ずかしいけど嬉しい～
 
 <p align="center">
   <a href="mailto:sigure.qaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://twitter.com/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="http://qr.topscan.com/api.php?text=http://qm.qq.com/cgi-bin/qm/qr?k=1PbIl8QPOkF0ErJKX-GmjA-E8e53djl4" target="_blank"><img src="https://img.shields.io/badge/QQ-444444.svg?&style=flat-square&logo=tencent%20qq&logoColor=white" alt="qq-240377379"></a>
+  <a href="https://t.me/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
 </p>
 
 这里是 SigureMo（<ruby> 時 <rp>(</rp><rt>し</rt><rp>)</rp> 雨 <rp>(</rp><rt>ぐれ</rt><rp>)</rp> Mo </ruby>），一个~~可爱的~~小透明～
 
-- :globe_with_meridians: 中文 · 日本語　· ~~English~~（learning）
+- :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
 - :link: [sigure.xyz](https://sigure.xyz)
 
 ### Conhecimentos / Knowledges
 
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-18b56b?style=flat-square&logo=python">
+  <img alt="python" src="https://img.shields.io/badge/Python-979b27?style=flat-square&logo=python">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-1c3c6e?style=flat-square&logo=tensorflow">
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-1fbdb2?style=flat-square&logo=pytorch">
   <br/>
