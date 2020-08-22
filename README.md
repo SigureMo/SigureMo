@@ -12,6 +12,7 @@
 这里是 SigureMo（<ruby> 時 <rp>(</rp><rt>し</rt><rp>)</rp> 雨 <rp>(</rp><rt>ぐれ</rt><rp>)</rp> Mo </ruby>），一个~~可爱的~~小透明～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
+- :alarm_clock: 10:00 - 3:00 「[GMT+8](https://time.is/GMT+8)」
 - :link: [sigure.xyz](https://sigure.xyz)
 
 ### Conhecimentos / Knowledges
