@@ -9,13 +9,15 @@
   <a href="https://pypi.org/user/SigureMo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
 
+<img align="right" width="250px" src="https://img.sigure.xyz/profile/miku.png" />
+
 这里是 SigureMo（<ruby> 時 <rp>(</rp><rt>し</rt><rp>)</rp> 雨 <rp>(</rp><rt>ぐれ</rt><rp>)</rp> Mo </ruby>），一个~~可爱的~~小透明～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
 - :alarm_clock: 10:00 - 3:00 「[GMT+8](https://time.is/GMT+8)」
 - :link: [sigure.xyz](https://sigure.xyz)
 
-### Conhecimentos / Knowledges
+### Conhecimentos / Knowledges 🐾
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
@@ -23,26 +25,21 @@
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
   <br/>
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-<!--   <img alt="css" src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3"> -->
+  <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <!-- <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js"> -->
+  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <br/>
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <img alt="c" src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c">
 </p>
 
-### Development environment
+### Development Environment 🍻
 
 <p align="center">
   <img alt="manjaro" src="https://img.shields.io/badge/Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=white">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
-### Stats
+### Spotify Playing 🎧
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SigureMo&show_icons=true&include_all_commits=true&theme=cobalt" alt="SigureMo's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SigureMo&layout=compact&theme=cobalt&hide=html,jupyter%20notebook" />
-</a>
+<a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
