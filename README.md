@@ -14,7 +14,7 @@
 这里是 SigureMo（<ruby> 時 <rp>(</rp><rt>し</rt><rp>)</rp> 雨 <rp>(</rp><rt>ぐれ</rt><rp>)</rp> Mo </ruby>），一个~~可爱的~~小透明～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
-- :alarm_clock: 10:00 - 3:00 「[GMT+8](https://time.is/GMT+8)」
+- :alarm_clock: 10:00 - 3:00 「[UTC+8](https://time.is/UTC+8)」
 - :link: [sigure.xyz](https://sigure.xyz)
 
 ### Conhecimentos / Knowledges 🐾
@@ -27,6 +27,7 @@
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <br/>
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
