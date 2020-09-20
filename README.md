@@ -11,7 +11,7 @@
 
 <img align="right" width="250px" src="https://img.sigure.xyz/profile/miku.png" />
 
-这里是 SigureMo（<ruby> 時 <rp>(</rp><rt>し</rt><rp>)</rp> 雨 <rp>(</rp><rt>ぐれ</rt><rp>)</rp> Mo </ruby>），一个~~可爱的~~小透明～
+这里是喵库，一个~~可爱的~~小透明～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
 - :alarm_clock: 10:00 - 3:00 「[UTC+8](https://time.is/UTC+8)」
