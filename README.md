@@ -14,7 +14,7 @@
 这里是喵库，一个~~可爱的~~小透明～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
-- :alarm_clock: 10:00 - 3:00 「[UTC+8](https://time.is/UTC+8)」
+- :alarm_clock: 8:00 - 1:00 「[UTC+8](https://time.is/UTC+8)」
 - :link: [sigure.xyz](https://sigure.xyz)
 
 ### Conhecimentos / Knowledges 🐾
