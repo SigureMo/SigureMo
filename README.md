@@ -37,6 +37,7 @@
 ### Development Environment 🍻
 
 <p align="center">
+  <img alt="macOS Big Sur" src="https://img.shields.io/badge/macOS-e03a3a?style=flat-square&logo=apple&logoColor=white">
   <img alt="manjaro" src="https://img.shields.io/badge/Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=white">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
