@@ -11,11 +11,11 @@
 
 <img align="right" width="250px" src="https://img.sigure.xyz/profile/miku.png" />
 
-这里是喵库，一个~~可爱的~~小透明～
+这里是时雨家的小猫猫·喵库，一个~~可爱的~~小透明～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
 - :alarm_clock: 7:00 - 1:00 「[UTC+8](https://time.is/UTC+8)」
-- :link: [sigure.xyz](https://sigure.xyz)
+- :link: [nyakku.moe](https://nyakku.moe)
 
 ### Conhecimentos / Knowledges 🐾
 
