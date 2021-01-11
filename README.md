@@ -1,4 +1,4 @@
-## 喵？被发现了！恥ずかしいけど嬉しい～
+## 哎呀！被发现了(\*/ω＼\*)～
 
 <p align="center">
   <a href="mailto:sigure.qaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -11,7 +11,7 @@
 
 <img align="right" width="250px" src="https://img.sigure.xyz/profile/miku.png" />
 
-这里是时雨家的小猫猫·喵库，一个~~可爱的~~小透明～
+这里是喵库，只是时雨家一只普普通通的小猫猫～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
 - :alarm_clock: 10:00 - 4:00 「[UTC+8](https://time.is/UTC+8)」
