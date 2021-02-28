@@ -9,12 +9,12 @@
   <a href="https://pypi.org/user/SigureMo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
 
-<img align="right" width="250px" src="https://img.sigure.xyz/profile/miku.png" />
+<img align="right" width="250px" src="https://img.nyakku.moe/profile/miku.png" />
 
 这里是喵库，只是时雨家一只普普通通的小猫猫～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
-- :alarm_clock: 10:00 - 4:00 「[UTC+8](https://time.is/UTC+8)」
+- :alarm_clock: 8:00 - 2:00 「[UTC+8](https://time.is/UTC+8)」
 - :link: [nyakku.moe](https://nyakku.moe)
 
 ### Conhecimentos / Knowledges 🐾
