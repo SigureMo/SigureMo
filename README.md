@@ -11,7 +11,7 @@
 
 <img align="right" width="250px" src="https://img.nyakku.moe/profile/miku.png" />
 
-这里是喵库，只是时雨家一只普普通通的小猫猫～
+这里是 Nyakku，只是时雨家一只普普通通的小猫猫～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
 - :alarm_clock: 8:00 - 2:00 「[UTC+8](https://time.is/UTC+8)」
@@ -37,8 +37,7 @@
 ### Development Environment 🍻
 
 <p align="center">
-  <img alt="macOS Big Sur" src="https://img.shields.io/badge/macOS-e03a3a?style=flat-square&logo=apple&logoColor=white">
-  <img alt="manjaro" src="https://img.shields.io/badge/Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=white">
+  <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/Apple%20Silicon-e03a3a?style=flat-square&logo=apple&logoColor=white">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
