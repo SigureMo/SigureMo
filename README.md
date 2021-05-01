@@ -9,7 +9,7 @@
   <a href="https://pypi.org/user/SigureMo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
 
-<img align="right" width="250px" src="https://img.nyakku.moe/profile/miku.png" />
+<img align="right" width="250px" src="https://img.nyakku.moe/profile/kinako.png" />
 
 这里是 Nyakku，只是时雨家一只普普通通的小猫猫～
 
