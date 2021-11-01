@@ -14,10 +14,10 @@
 这里是 Nyakku，只是时雨家一只普普通通的小猫猫～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
-- :alarm_clock: 6:00 - 24:30 「[UTC+8](https://time.is/UTC+8)」
+- :alarm_clock: 6:00 - 25:00 「[UTC+8](https://time.is/UTC+8)」
 - :link: [nyakku.moe](https://nyakku.moe)
 
-### Conhecimentos / Knowledges 🐾
+### Tech Stacks 🐾
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
