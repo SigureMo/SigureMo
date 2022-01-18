@@ -25,13 +25,14 @@
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
   <br/>
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
+  <img alt="css" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <br/>
+  <img alt="rust" src="https://img.shields.io/badge/Rust-bc8362?style=flat-square&logo=rust">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <img alt="c" src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c">
+  <img alt="c" src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c">
 </p>
 
 ### Development Environment 🍻
