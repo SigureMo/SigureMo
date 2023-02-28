@@ -14,7 +14,7 @@
 这里是 Nyakku，只是时雨家一只普普通通的小猫猫～
 
 - :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
-- :alarm_clock: 12:00 - 28:00 「[UTC+8](https://time.is/UTC+8)」
+- :alarm_clock: 8:30 - 24:30 「[UTC+8](https://time.is/UTC+8)」
 - :link: [nyakku.moe](https://nyakku.moe)
 
 ### Tech Stacks 🐾
@@ -24,8 +24,6 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white">
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
   <br/>
-  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="css" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
