@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: waka-box
-        uses: matchai/waka-box@v4.0.5
+        uses: matchai/waka-box@v5.0.0
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: cd776acfe29d5d4001d0dec49fb478e5
