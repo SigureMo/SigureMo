@@ -39,9 +39,3 @@
   <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/macOS(M1)-e03a3a?style=flat-square&logo=apple&logoColor=white">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
-
-### Spotify Playing 🎧
-
-<p align="center">
-  <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify?background_color=42f5b011&border_color=00000000" alt="Spotify Now Playing" width="350"/></a>
-</p>
